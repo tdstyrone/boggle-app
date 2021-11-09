@@ -1,0 +1,13 @@
+$body-bg: #f3f0eb;
+$secondary-color: #f3f0eb;
+
+body {
+    margin: 0;
+}
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+.SettingsBar{
+    margin-top: 10px;
+}

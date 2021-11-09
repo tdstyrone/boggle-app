@@ -1,0 +1,13 @@
+.Guess-input{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto 10px auto;
+    height: 75px;
+    width: 400px;
+    font-style: italic;
+
+    .GInput div{
+        margin-bottom: 5px;
+        color: rgb(18, 88, 219);
+    }
+}

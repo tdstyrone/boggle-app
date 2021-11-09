@@ -1,0 +1,28 @@
+.ToggleGameState{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    .form-floating{
+        margin: 5px 10px 0px 10px;
+    }
+
+    .sbcenter{
+        display: flex;
+        justify-content: center;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-bottom: 40px;
+
+        Button{
+            width: 200px;
+            height: 40px;
+            margin-right: 0px;
+            margin-top: 75px;
+            background-color: black;
+        }
+
+        FloatingLabel{
+            height: 40px;
+        }
+    }
+}
